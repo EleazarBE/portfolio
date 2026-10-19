@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Portfolio — Flutter Web
 
 A responsive, minimalist software engineering portfolio built with Flutter and Dart.
@@ -41,9 +42,15 @@ The design direction combines a monochrome visual identity with subtle manga-ins
 **Stage:** Initial development
 
 The Flutter starter project and GitHub repository have been created. The custom portfolio interface, project demonstrations, responsive layouts, and deployment workflow are still being implemented and verified.
+=======
+## Development Status
 
-## Getting Started
+**Stage:** Initial portfolio implementation
+>>>>>>> b661f92 (Build initial portfolio homepage)
 
+The Flutter Web application now includes a custom monochrome homepage and a shared application theme. The project is being developed incrementally, with responsive navigation, project showcases, and interactive demonstrations planned for subsequent milestones.
+
+<<<<<<< HEAD
 Install the Flutter SDK and Git, then open this repository in Visual Studio Code.
 
 Run the following commands from the project root:
@@ -65,3 +72,33 @@ flutter analyze
 - **BoMI:** A Flutter-based inventory management application.
 
 Interactive demonstrations will use simulated data where appropriate and will not expose private local services or credentials.
+=======
+### Current Features
+
+- Custom portfolio homepage
+- Monochrome visual theme
+- Responsive-friendly page layout
+- Widget test for the main homepage headings
+
+### Planned Features
+
+- Responsive navigation
+- JARVIS local AI assistant project showcase
+- BoMI inventory management project showcase
+- Manga-inspired visual elements and animations
+- Deployment through GitHub Pages
+
+### Verification
+
+Run the following commands from the project root:
+
+```bash
+flutter pub get
+flutter analyze
+flutter test
+flutter run -d chrome
+```
+
+The project is still under development. Features listed as planned are not yet complete.
+
+>>>>>>> b661f92 (Build initial portfolio homepage)
