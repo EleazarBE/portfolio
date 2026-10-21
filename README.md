@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+# Barachelle's Portfolio
+
+**🌐 Live Website:** [Visit My Portfolio](https://eleazarbe.github.io/portfolio/)
+
+A personal software engineering portfolio built with Flutter Web and deployed using GitHub Pages.
 # Personal Portfolio — Flutter Web
 
 A responsive, minimalist software engineering portfolio built with Flutter and Dart.
